@@ -11,7 +11,7 @@
   "iconURL": "https://raw.githubusercontent.com/shplash/shplash-repo/main/assets/shplashlogo.PNG",
 
   "tintColor": "#729864",
-"accentColor": "#729864",
+  "accentColor": "#729864",
 
   "news": [
     {
@@ -39,9 +39,9 @@
       "iconURL": "https://raw.githubusercontent.com/shplash/IPAID/main/assets/AppIconSource1.PNG",
 
       "screenshots": [
-        "https://raw.githubusercontent.com/shplash/shplash-repo/main/assets/example5.PNG",
+        "https://raw.githubusercontent.com/shplash/shplash-repo/main/assets/example5.PNG"
       ],
-      
+
       "downloadURL": "https://github.com/shplash/IPAID/releases/download/v1.1.1/IPAID.ipa",
 
       "version": "1.1.1",
