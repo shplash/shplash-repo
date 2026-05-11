@@ -1,5 +1,5 @@
 {
-  "name": "shplash Repo",
+  "name": "shplash's Repo",
   "identifier": "com.shplash.repo",
 
   "subtitle": "A collection of shplash's apps",
@@ -17,10 +17,9 @@
     {
       "title": "IPAID v1.1.1 is now available.",
       "identifier": "ipaid-available-1-1-1",
-      "caption": "Version 1.1.1",
+      "caption": "Tap to learn more.",
       "date": "2026-05-11",
       "tintColor": "#8FBF7A",
-      "imageURL": "https://raw.githubusercontent.com/shplash/IPAID/main/assets/AppIconSourceClear.PNG",
       "url": "https://github.com/shplash/IPAID/releases/tag/v1.1.1"
     }
   ],
