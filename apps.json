@@ -1,18 +1,12 @@
 {
   "name": "shplash Repo",
   "identifier": "com.shplash.repo",
-
   "subtitle": "A collection of apps by shplash",
-
   "description": "Expect useful, lightweight tools built for iOS users.",
-
   "website": "https://github.com/shplash",
-
   "iconURL": "https://raw.githubusercontent.com/shplash/shplash-repo/main/assets/shplashlogo.PNG",
-
   "tintColor": "#729864",
   "accentColor": "#729864",
-
   "news": [
     {
       "title": "IPAID v1.1.1 is now available.",
@@ -23,40 +17,34 @@
       "url": "https://github.com/shplash/IPAID/releases/tag/v1.1.1"
     }
   ],
-
   "apps": [
     {
       "name": "IPAID",
-
       "bundleIdentifier": "com.shplash.ipaid",
-
       "developerName": "shplash",
-
       "subtitle": "Edit IPA bundle IDs",
-
       "localizedDescription": "IPAID is an on-device utility for editing IPA bundle identifiers before signing or installing.\n\nUseful for SideStore, AltStore, Feather, and LiveContainer workflows.\n\nSupports app and extension bundle ID rewriting while keeping the original IPA untouched.",
-
       "iconURL": "https://raw.githubusercontent.com/shplash/IPAID/main/assets/AppIconSource1.PNG",
-
       "screenshots": [
         "https://raw.githubusercontent.com/shplash/shplash-repo/main/assets/example5.PNG"
       ],
-
-      "downloadURL": "https://github.com/shplash/IPAID/releases/download/v1.1.1/IPAID.ipa",
-
-      "version": "1.1.1",
-
-      "versionDate": "2026-05-11T00:00:00Z",
-
+      "downloadURL": "https://github.com/shplash/IPAID/releases/download//IPAID.ipa",
+      "version": "",
+      "versionDate": "2026-05-11",
       "size": 2500000,
-
       "minOSVersion": "15.0",
-
       "website": "https://github.com/shplash/IPAID",
-
       "tintColor": "#8FBF7A",
-
-      "versionDescription": "• Added iOS 15 support\n• Improved bundle ID rewriting\n• Better export handling\n• Stability improvements"
+      "versionDescription": "• Added iOS 15 support\n• Improved bundle ID rewriting\n• Better export handling\n• Stability improvements",
+      "versions": [
+        {
+          "version": "",
+          "date": "2026-05-11",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/shplash/IPAID/releases/download//IPAID.ipa",
+          "size": 0
+        }
+      ]
     }
   ]
 }
