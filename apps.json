@@ -1,18 +1,41 @@
 {
   "name": "shplash Repo",
   "identifier": "com.shplash.repo",
+  "subtitle": "IPAID and future apps",
+  "description": "Source for IPAID, an on-device utility for editing IPA bundle identifiers before signing or installing.",
+  "website": "https://github.com/shplash",
+  "iconURL": "https://raw.githubusercontent.com/shplash/IPAID/main/assets/AppIconSourceClear.PNG",
+  "tintColor": "#AFCBFF",
+  "accentColor": "#AFCBFF",
+
+  "news": [
+    {
+      "title": "IPAID is now available from shplash Repo",
+      "identifier": "ipaid-available-1-1-1",
+      "caption": "Version 1.1.1",
+      "date": "2026-05-11",
+      "tintColor": "#AFCBFF",
+      "imageURL": "https://raw.githubusercontent.com/shplash/IPAID/main/assets/AppIconSourceClear.PNG",
+      "url": "https://github.com/shplash/IPAID/releases/tag/v1.1.1"
+    }
+  ],
+
   "apps": [
     {
       "name": "IPAID",
       "bundleIdentifier": "com.shplash.ipaid",
       "developerName": "shplash",
       "subtitle": "Edit IPA bundle IDs",
-      "localizedDescription": "Edit app and extension bundle identifiers before signing.",
-      "iconURL": "https://raw.githubusercontent.com/shplash/IPAID/main/assets/AppIconSourceClear.PNG",
+      "localizedDescription": "IPAID is an on-device utility for editing IPA bundle identifiers before signing or installing.\n\nUseful for SideStore, AltStore, Feather, and LiveContainer workflows.\n\nSupports app and extension bundle ID rewriting while keeping the original IPA untouched.",
+      "iconURL": "https://raw.githubusercontent.com/shplash/IPAID/main/assets/AppIconSource1.PNG",
       "downloadURL": "https://github.com/shplash/IPAID/releases/download/v1.1.1/IPAID.ipa",
       "version": "1.1.1",
       "versionDate": "2026-05-11T00:00:00Z",
-      "size": 2500000
+      "size": 2500000,
+      "minOSVersion": "15.0",
+      "website": "https://github.com/shplash/IPAID",
+      "tintColor": "#AFCBFF",
+      "versionDescription": "• Added iOS 15 support\n• Improved bundle ID rewriting\n• Better export handling\n• Stability improvements"
     }
   ]
 }
