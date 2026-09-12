@@ -15,48 +15,34 @@
 
   "news": [
     {
-      "title": "IPAID v1.1.1 is now available.",
-      "identifier": "ipaid-available-1-1-1",
+      "title": "IPAID v1.2 is now available.",
+      "identifier": "ipaid-available-1-2",
       "caption": "Tap to learn more.",
-      "date": "2026-05-11",
+      "date": "2026-09-12",
       "tintColor": "#8FBF7A",
-      "url": "https://github.com/shplash/IPAID/releases/tag/v1.1.1"
+      "url": "https://github.com/shplash/IPAID/releases/tag/v1.2"
     }
   ],
 
   "apps": [
     {
       "name": "IPAID",
-
       "bundleIdentifier": "com.shplash.ipaid",
-
       "developerName": "shplash",
-
-      "subtitle": "Edit IPA bundle IDs",
-
-      "localizedDescription": "IPAID is an on-device utility for editing IPA bundle identifiers before signing or installing.\n\nUseful for SideStore, AltStore, Feather, and LiveContainer workflows.\n\nSupports app and extension bundle ID rewriting while keeping the original IPA untouched.",
-
+      "subtitle": "Edit IPA bundle IDs, names & schemes",
+      "localizedDescription": "IPAID is an on-device utility for editing IPA bundle identifiers, display names, and URL schemes before signing or installing.\n\nManage app extensions, customize exported IPA filenames, and compare original and exported file sizes.\n\nUseful for SideStore, AltStore, Feather, and LiveContainer workflows.",
       "iconURL": "https://raw.githubusercontent.com/shplash/IPAID/main/assets/AppIconSource1.PNG",
-
       "screenshots": [
         "https://raw.githubusercontent.com/shplash/shplash-repo/main/assets/example5.PNG"
       ],
-
-      "downloadURL": "https://github.com/shplash/IPAID/releases/download/v1.1.1/IPAID.ipa",
-
-      "version": "1.1.1",
-
-      "versionDate": "2026-05-11T00:00:00Z",
-
+      "downloadURL": "https://github.com/shplash/IPAID/releases/download/v1.2/IPAID.ipa",
+      "version": "1.2",
+      "versionDate": "2026-09-12T00:00:00Z",
       "size": 2500000,
-
       "minOSVersion": "15.0",
-
       "website": "https://github.com/shplash/IPAID",
-
       "tintColor": "#8FBF7A",
-
-      "versionDescription": "• Added iOS 15 support\n• Improved bundle ID rewriting\n• Better export handling\n• Stability improvements"
+      "versionDescription": "• Added URL scheme editing\n• Improved extension management\n• Added before/after file size\n• Added export filename editing\n• Improved export status and change tracking\n• Fixed exported IPA file size bloat"
     }
   ]
 }
