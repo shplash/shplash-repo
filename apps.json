@@ -33,7 +33,7 @@
       "localizedDescription": "IPAID is an on-device utility for editing IPA bundle identifiers, display names, and URL schemes before signing or installing.\n\nManage app extensions, customize exported IPA filenames, and compare original and exported file sizes.\n\nUseful for SideStore, AltStore, Feather, and LiveContainer workflows.",
       "iconURL": "https://raw.githubusercontent.com/shplash/IPAID/main/assets/AppIconSource1.PNG",
       "screenshots": [
-        "https://raw.githubusercontent.com/shplash/shplash-repo/main/assets/example5.PNG"
+        "https://raw.githubusercontent.com/shplash/shplash-repo/main/assets/example6.PNG"
       ],
       "downloadURL": "https://github.com/shplash/IPAID/releases/download/v1.2/IPAID.ipa",
       "version": "1.2",
