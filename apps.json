@@ -15,12 +15,12 @@
 
   "news": [
     {
-      "title": "IPAID v1.2 is now available.",
-      "identifier": "ipaid-available-1-2",
+      "title": "IPAID v1.21 is now available.",
+      "identifier": "ipaid-available-1-21",
       "caption": "Tap to learn more.",
-      "date": "2026-09-12",
+      "date": "2026-09-15",
       "tintColor": "#8FBF7A",
-      "url": "https://github.com/shplash/IPAID/releases/tag/v1.2"
+      "url": "https://github.com/shplash/IPAID/releases/tag/v1.21"
     }
   ],
 
@@ -35,14 +35,14 @@
       "screenshots": [
         "https://raw.githubusercontent.com/shplash/shplash-repo/main/assets/example6.PNG"
       ],
-      "downloadURL": "https://github.com/shplash/IPAID/releases/download/v1.2/IPAID.ipa",
-      "version": "1.2",
-      "versionDate": "2026-09-12T00:00:00Z",
+      "downloadURL": "https://github.com/shplash/IPAID/releases/download/v1.21/IPAID.ipa",
+      "version": "1.21",
+      "versionDate": "2026-09-15T00:00:00Z",
       "size": 1700000,
       "minOSVersion": "15.0",
       "website": "https://github.com/shplash/IPAID",
       "tintColor": "#8FBF7A",
-      "versionDescription": "• Added URL scheme editing\n• Improved extension management\n• Added before/after file size\n• Added export filename editing\n• Improved export status and change tracking\n• Fixed exported IPA file size bloat"
+      "versionDescription": "â¢ Added About screen with GitHub, update checker, bug reports, feature requests, and optional support link\nâ¢ Added light/dark mode toggle\nâ¢ Improved UI spacing and subtle section separation\nâ¢ Improved appearance switching responsiveness\nâ¢ Added in-app version checking"
     }
   ]
 }
