@@ -42,7 +42,7 @@
       "minOSVersion": "15.0",
       "website": "https://github.com/shplash/IPAID",
       "tintColor": "#8FBF7A",
-      "versionDescription": "- Added About screen with GitHub, update checker, bug reports, feature requests, and optional support link\n - Added light/dark mode toggle\n - Improved UI spacing and subtle section separation\n - Improved appearance switching responsiveness\n - Added in-app version checking"
+      "versionDescription": "- Added About screen with GitHub, update checker, bug reports, feature requests, and optional support link\n - Added light/dark mode toggle"
     }
   ]
 }
