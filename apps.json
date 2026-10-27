@@ -40,9 +40,6 @@
       "subtitle": "Steam Workshop downloads on iPhone",
       "localizedDescription": "ModShelf is a native SwiftUI client for the Steam Workshop. Sign in, paste a Workshop link or browse the Workshop in the built-in browser, and the mod downloads into its own folder, sorted by game.\n\nKeep a library with search, tags, favourites and sorting, check mods for updates, verify files, and export anything as a ZIP.\n\nUseful for LiveContainer, SideStore, AltStore, Feather and TrollStore workflows.",
       "iconURL": "https://raw.githubusercontent.com/shplash/ModShelf/main/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
-      "screenshots": [
-        "https://raw.githubusercontent.com/shplash/ModShelf/main/assets/example1.png"
-      ],
       "downloadURL": "https://github.com/shplash/ModShelf/releases/latest/download/ModShelf.ipa",
       "version": "1.0",
       "versionDate": "2026-10-27T00:00:00Z",
