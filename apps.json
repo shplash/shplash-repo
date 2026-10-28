@@ -38,16 +38,16 @@
       "bundleIdentifier": "com.shplash.modshelf",
       "developerName": "shplash",
       "subtitle": "Steam Workshop downloads on iPhone",
-      "localizedDescription": "ModShelf is a native SwiftUI client for the Steam Workshop. Sign in, paste a Workshop link or browse the Workshop in the built-in browser, and the mod downloads into its own folder, sorted by game.\n\nKeep a library with search, tags, favourites and sorting, check mods for updates, verify files, and export anything as a ZIP.",
+      "localizedDescription": "ModShelf is a native SwiftUI client for the Steam Workshop. Sign in, paste a Workshop link or browse the Workshop in the built-in browser, and the mod downloads into its own folder, sorted by game.\n\nDownloads run as a queue: add more while one is going, pause and resume, and one mod failing never stops the rest. Keep a library with search, tags, favourites and sorting, check mods for updates, verify files, and export anything as a ZIP.",
       "iconURL": "https://raw.githubusercontent.com/shplash/ModShelf/main/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
       "downloadURL": "https://github.com/shplash/ModShelf/releases/latest/download/ModShelf.ipa",
       "version": "1.0",
       "versionDate": "2026-10-27T00:00:00Z",
-      "size": 5030000,
+      "size": 0,
       "minOSVersion": "16.0",
       "website": "https://github.com/shplash/ModShelf",
       "tintColor": "#4C8DFF",
-      "versionDescription": "- Library with per-game folders, search, tags and filters\n - Update checks, file verification and ZIP export"
+      "versionDescription": "- A download queue with pause, resume and failures kept apart\n - Built-in Workshop browser, recently viewed mods and favourites\n - Library with per-game folders, search, tags and filters\n - Update checks, file verification and ZIP export"
     },
     {
       "name": "IPAID",
