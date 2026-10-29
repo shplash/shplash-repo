@@ -15,12 +15,12 @@
 
   "news": [
     {
-      "title": "ModShelf is now released!",
+      "title": "ModShelf v1.0 is now available.",
       "identifier": "modshelf-available-1-0",
       "caption": "Download and manage Steam Workshop mods on iPhone.",
-      "date": "2026-10-27",
+      "date": "2026-10-29",
       "tintColor": "#4C8DFF",
-      "url": "https://github.com/shplash/ModShelf/releases/latest"
+      "url": "https://github.com/shplash/ModShelf/releases/tag/v1.0"
     },
     {
       "title": "IPAID v1.21 is now available.",
@@ -38,16 +38,25 @@
       "bundleIdentifier": "com.shplash.modshelf",
       "developerName": "shplash",
       "subtitle": "Steam Workshop downloads on iPhone",
-      "localizedDescription": "ModShelf is a native SwiftUI client for the Steam Workshop. Sign in, paste a Workshop link or browse the Workshop in the built-in browser, and the mod downloads into its own folder, sorted by game.\n\nDownloads run as a queue: add more while one is going, pause and resume, and one mod failing never stops the rest. Keep a library with search, tags, favourites and sorting, check mods for updates, verify files, and export anything as a ZIP.",
+      "localizedDescription": "Download Steam Workshop mods on your iPhone with ModShelf. Sign in to Steam, paste a Workshop link or find mods using the built-in browser.\n\nDownloads are sorted into folders by game. Manage your mods in the library, check for updates, verify files, and export mods as ZIP files. Downloads can even run in a queue.",
       "iconURL": "https://raw.githubusercontent.com/shplash/ModShelf/main/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
-      "downloadURL": "https://github.com/shplash/ModShelf/releases/latest/download/ModShelf.ipa",
+      "downloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.0/ModShelf-v1.0.ipa",
       "version": "1.0",
-      "versionDate": "2026-10-27T00:00:00Z",
-      "size": 0,
+      "versionDate": "2026-10-29T17:45:02Z",
+      "size": 4929876,
       "minOSVersion": "16.0",
       "website": "https://github.com/shplash/ModShelf",
       "tintColor": "#4C8DFF",
-      "versionDescription": "- A download queue with pause, resume and failures kept apart\n - Built-in Workshop browser, recently viewed mods and favourites\n - Library with per-game folders, search, tags and filters\n - Update checks, file verification and ZIP export"
+      "versionDescription": "## What’s New\n\nModShelf v1.0 — a native Steam Workshop downloader for iPhone.\n\n### Changes\n\n- First release!",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-10-29T17:45:02Z",
+          "localizedDescription": "## What’s New\n\nModShelf v1.0 — a native Steam Workshop downloader for iPhone.\n\n### Changes\n\n- First release!",
+          "downloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.0/ModShelf-v1.0.ipa",
+          "size": 4929876
+        }
+      ]
     },
     {
       "name": "IPAID",
