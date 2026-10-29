@@ -47,7 +47,7 @@
       "minOSVersion": "16.0",
       "website": "https://github.com/shplash/ModShelf",
       "tintColor": "#4C8DFF",
-      "versionDescription": "## What’s New\n\nModShelf v1.0 — a native Steam Workshop downloader for iPhone.\n\n### Changes\n\n- First release!",
+      "versionDescription": "ModShelf v1.0 — a native Steam Workshop downloader for iPhone.\n\n### Changes\n\n- First release!",
       "versions": [
         {
           "version": "1.0",
