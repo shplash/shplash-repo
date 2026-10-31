@@ -15,6 +15,14 @@
 
   "news": [
     {
+      "title": "ModShelf v1.1 is now available.",
+      "identifier": "modshelf-available-1-1",
+      "caption": "A new look for the whole app, with download fixes underneath it.",
+      "date": "2026-10-31",
+      "tintColor": "#4C8DFF",
+      "url": "https://github.com/shplash/ModShelf/releases/tag/v1.1"
+    },
+    {
       "title": "ModShelf v1.0 is now available.",
       "identifier": "modshelf-available-1-0",
       "caption": "Download and manage Steam Workshop mods on iPhone.",
@@ -40,15 +48,22 @@
       "subtitle": "Steam Workshop downloads on iPhone",
       "localizedDescription": "Download Steam Workshop mods on your iPhone with ModShelf. Sign in to Steam, paste a Workshop link or find mods using the built-in browser.\n\nDownloads are sorted into folders by game. Manage your mods in the library, check for updates, verify files, and export mods as ZIP files. Downloads can even run in a queue.",
       "iconURL": "https://raw.githubusercontent.com/shplash/ModShelf/main/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
-      "downloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.0/ModShelf-v1.0.ipa",
-      "version": "1.0",
-      "versionDate": "2026-10-29T17:45:02Z",
-      "size": 4929876,
+      "downloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.1/ModShelf-v1.1.ipa",
+      "version": "1.1",
+      "versionDate": "2026-10-31T00:13:59Z",
+      "size": 4967923,
       "minOSVersion": "16.0",
       "website": "https://github.com/shplash/ModShelf",
       "tintColor": "#4C8DFF",
-      "versionDescription": "## What’s New\n\nModShelf v1.0 — a native Steam Workshop downloader for iPhone.\n\n### Changes\n\n- First release!",
+      "versionDescription": "ModShelf v1.1 - a new look for the whole app, with download fixes underneath it.\n\n### Changes\n\n- A new look: softer colours, rounder cards, clearer text.\n- A tidier library: a clearer header and grouped filters.\n- Downloads arrive with the real title and artwork, and blank ones fill themselves in.",
       "versions": [
+        {
+          "version": "1.1",
+          "date": "2026-10-31T00:13:59Z",
+          "localizedDescription": "ModShelf v1.1 - a new look for the whole app, with download fixes underneath it.\n\n### Changes\n\n- A new look: softer colours, rounder cards, clearer text.\n- A tidier library: a clearer header and grouped filters.\n- Downloads arrive with the real title and artwork, and blank ones fill themselves in.",
+          "downloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.1/ModShelf-v1.1.ipa",
+          "size": 4967923
+        },
         {
           "version": "1.0",
           "date": "2026-10-29T17:45:02Z",
