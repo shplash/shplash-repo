@@ -15,6 +15,14 @@
 
   "news": [
     {
+      "title": "ModShelf v1.1.1 is now available.",
+      "identifier": "modshelf-available-1-1-1",
+      "caption": "Fixes some Workshop mods not downloading properly.",
+      "date": "2026-10-31",
+      "tintColor": "#4C8DFF",
+      "url": "https://github.com/shplash/ModShelf/releases/tag/v1.1.1"
+    },
+    {
       "title": "ModShelf v1.1 is now available.",
       "identifier": "modshelf-available-1-1",
       "caption": "A new look for the whole app, with download fixes underneath it.",
@@ -48,21 +56,28 @@
       "subtitle": "Steam Workshop downloads on iPhone",
       "localizedDescription": "Download Steam Workshop mods on your iPhone with ModShelf. Sign in to Steam, paste a Workshop link or find mods using the built-in browser.\n\nDownloads are sorted into folders by game. Manage your mods in the library, check for updates, verify files, and export mods as ZIP files. Downloads can even run in a queue.",
       "iconURL": "https://raw.githubusercontent.com/shplash/ModShelf/main/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
-      "downloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.1/ModShelf-v1.1.ipa",
-      "version": "1.1",
-      "versionDate": "2026-10-31T00:13:59Z",
-      "size": 4967923,
+      "downloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.1.1/ModShelf-v1.1.1.ipa",
+      "version": "1.1.1",
+      "versionDate": "2026-10-31T19:20:40Z",
+      "size": 4979570,
       "minOSVersion": "16.0",
       "website": "https://github.com/shplash/ModShelf",
       "tintColor": "#4C8DFF",
-      "versionDescription": "ModShelf v1.1 - a new look for the whole app, with download fixes underneath it.\n\n### Changes\n\n- A new look: softer colours, rounder cards, clearer text.\n- A tidier library: a clearer header and grouped filters.\n- Downloads arrive with the real title and artwork, and blank ones fill themselves in.",
+      "versionDescription": "Fixed some Workshop mods not downloading properly\n\n### Changes\n\n- Downloads that used to fail for older Workshop items now work\n- Depot items are retried across every route before giving up\n- Download history now has a copy error button for reporting a failure",
       "versions": [
+        {
+          "version": "1.1.1",
+          "date": "2026-10-31T19:20:40Z",
+          "localizedDescription": "Fixed some Workshop mods not downloading properly\n\n### Changes\n\n- Downloads that used to fail for older Workshop items now work\n- Depot items are retried across every route before giving up\n- Download history now has a copy error button for reporting a failure",
+          "downloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.1.1/ModShelf-v1.1.1.ipa",
+          "size": 4979570
+        },
         {
           "version": "1.1",
           "date": "2026-10-31T00:13:59Z",
           "localizedDescription": "ModShelf v1.1 - a new look for the whole app, with download fixes underneath it.\n\n### Changes\n\n- A new look: softer colours, rounder cards, clearer text.\n- A tidier library: a clearer header and grouped filters.\n- Downloads arrive with the real title and artwork, and blank ones fill themselves in.",
           "downloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.1/ModShelf-v1.1.ipa",
-          "size": 4967923
+          "size": 4967926
         },
         {
           "version": "1.0",
