@@ -15,6 +15,14 @@
 
   "news": [
     {
+      "title": "ModShelf v1.1.2 is now available.",
+      "identifier": "modshelf-available-1-1-2",
+      "caption": "More Workshop downloads work now.",
+      "date": "2026-11-01",
+      "tintColor": "#4C8DFF",
+      "url": "https://github.com/shplash/ModShelf/releases/tag/v1.1.2"
+    },
+    {
       "title": "ModShelf v1.1.1 is now available.",
       "identifier": "modshelf-available-1-1-1",
       "caption": "Fixes some Workshop mods not downloading properly.",
@@ -56,15 +64,22 @@
       "subtitle": "Steam Workshop downloads on iPhone",
       "localizedDescription": "Download Steam Workshop mods on your iPhone with ModShelf. Sign in to Steam, paste a Workshop link or find mods using the built-in browser.\n\nDownloads are sorted into folders by game. Manage your mods in the library, check for updates, verify files, and export mods as ZIP files. Downloads can even run in a queue.",
       "iconURL": "https://raw.githubusercontent.com/shplash/ModShelf/main/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
-      "downloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.1.1/ModShelf-v1.1.1.ipa",
-      "version": "1.1.1",
-      "versionDate": "2026-10-31T19:20:40Z",
-      "size": 4979570,
+      "downloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.1.2/ModShelf-v1.1.2.ipa",
+      "version": "1.1.2",
+      "versionDate": "2026-11-01T01:46:24Z",
+      "size": 4985499,
       "minOSVersion": "16.0",
       "website": "https://github.com/shplash/ModShelf",
       "tintColor": "#4C8DFF",
-      "versionDescription": "Fixed some Workshop mods not downloading properly\n\n### Changes\n\n- Downloads that used to fail for older Workshop items now work\n- Depot items are retried across every route before giving up\n- Download history now has a copy error button for reporting a failure",
+      "versionDescription": "More Workshop downloads work now — several kinds of item that used to fail were fixed.\n\n### Changes\n\n- Items Steam serves as a single file, rather than a depot, now download properly; this was most of Left 4 Dead 2's Workshop.\n- Items whose details Steam sends as an archive are read correctly instead of arriving empty.\n- Downloads that fail retry across every depot and branch Steam lists before giving up, and download history can copy the engine's reason for a failure.",
       "versions": [
+        {
+          "version": "1.1.2",
+          "date": "2026-11-01T01:46:24Z",
+          "localizedDescription": "More Workshop downloads work now — several kinds of item that used to fail were fixed.\n\n### Changes\n\n- Items Steam serves as a single file, rather than a depot, now download properly; this was most of Left 4 Dead 2's Workshop.\n- Items whose details Steam sends as an archive are read correctly instead of arriving empty.\n- Downloads that fail retry across every depot and branch Steam lists before giving up, and download history can copy the engine's reason for a failure.",
+          "downloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.1.2/ModShelf-v1.1.2.ipa",
+          "size": 4985499
+        },
         {
           "version": "1.1.1",
           "date": "2026-10-31T19:20:40Z",
