@@ -71,12 +71,12 @@
       "minOSVersion": "16.0",
       "website": "https://github.com/shplash/ModShelf",
       "tintColor": "#4C8DFF",
-      "versionDescription": "More Workshop downloads work now — several kinds of item that used to fail were fixed.\n\n### Changes\n\n- Items Steam serves as a single file, rather than a depot, now download properly; this was most of Left 4 Dead 2's Workshop.\n- Items whose details Steam sends as an archive are read correctly instead of arriving empty.\n- Downloads that fail retry across every depot and branch Steam lists before giving up, and download history can copy the engine's reason for a failure.",
+      "versionDescription": "More Workshop downloads work now - several kinds of item that used to fail were fixed\n\n### Changes\n\n- Items whose details Steam sends as an archive are read correctly instead of arriving empty\n- Downloads that fail retry across more depots and every branch Steam lists before giving up",
       "versions": [
         {
           "version": "1.1.2",
           "date": "2026-11-01T01:46:24Z",
-          "localizedDescription": "More Workshop downloads work now — several kinds of item that used to fail were fixed.\n\n### Changes\n\n- Items Steam serves as a single file, rather than a depot, now download properly; this was most of Left 4 Dead 2's Workshop.\n- Items whose details Steam sends as an archive are read correctly instead of arriving empty.\n- Downloads that fail retry across every depot and branch Steam lists before giving up, and download history can copy the engine's reason for a failure.",
+          "localizedDescription": "More Workshop downloads work now - several kinds of item that used to fail were fixed\n\n### Changes\n\n- Items whose details Steam sends as an archive are read correctly instead of arriving empty\n- Downloads that fail retry across more depots and every branch Steam lists before giving up",
           "downloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.1.2/ModShelf-v1.1.2.ipa",
           "size": 4985499
         },
