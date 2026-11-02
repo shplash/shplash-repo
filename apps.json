@@ -15,6 +15,14 @@
 
   "news": [
     {
+      "title": "ModShelf v1.1.3 is now available.",
+      "identifier": "modshelf-available-1-1-3",
+      "caption": "Mods install with their folders intact again, and update checks are much quicker.",
+      "date": "2026-11-02",
+      "tintColor": "#4C8DFF",
+      "url": "https://github.com/shplash/ModShelf/releases/tag/v1.1.3"
+    },
+    {
       "title": "ModShelf v1.1.2 is now available.",
       "identifier": "modshelf-available-1-1-2",
       "caption": "More Workshop downloads work now.",
@@ -64,15 +72,22 @@
       "subtitle": "Steam Workshop downloads on iPhone",
       "localizedDescription": "Download Steam Workshop mods on your iPhone with ModShelf. Sign in to Steam, paste a Workshop link or find mods using the built-in browser.\n\nDownloads are sorted into folders by game. Manage your mods in the library, check for updates, verify files, and export mods as ZIP files. Downloads can even run in a queue.",
       "iconURL": "https://raw.githubusercontent.com/shplash/ModShelf/main/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
-      "downloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.1.2/ModShelf-v1.1.2.ipa",
-      "version": "1.1.2",
-      "versionDate": "2026-11-01T01:46:24Z",
-      "size": 4985499,
+      "downloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.1.3/ModShelf-v1.1.3.ipa",
+      "version": "1.1.3",
+      "versionDate": "2026-11-02T22:47:46Z",
+      "size": 5004856,
       "minOSVersion": "16.0",
       "website": "https://github.com/shplash/ModShelf",
       "tintColor": "#4C8DFF",
-      "versionDescription": "More Workshop downloads work now - several kinds of item that used to fail were fixed\n\n### Changes\n\n- Items whose details Steam sends as an archive are read correctly instead of arriving empty\n- Downloads that fail retry across more depots and every branch Steam lists before giving up",
+      "versionDescription": "Mods install with their folders intact again, and update checks are much quicker.\n\n### Changes\n\n- Mods unpack into their published folders again, and any that Files hid in its bin are put back\n- Checking for updates asks Steam once for the whole library, and validates the files in the same pass\n- Reinstall all, in the library menu, queues every mod you have added",
       "versions": [
+        {
+          "version": "1.1.3",
+          "date": "2026-11-02T22:47:46Z",
+          "localizedDescription": "Mods install with their folders intact again, and update checks are much quicker.\n\n### Changes\n\n- Mods unpack into their published folders again, and any that Files hid in its bin are put back\n- Checking for updates asks Steam once for the whole library, and validates the files in the same pass\n- Reinstall all, in the library menu, queues every mod you have added",
+          "downloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.1.3/ModShelf-v1.1.3.ipa",
+          "size": 5004856
+        },
         {
           "version": "1.1.2",
           "date": "2026-11-01T01:46:24Z",
